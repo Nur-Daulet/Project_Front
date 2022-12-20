@@ -1,2 +1,3 @@
 # Project_Front
- React.js
+This is the React.js project with Backend node.js
+
