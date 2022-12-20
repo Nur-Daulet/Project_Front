@@ -1,0 +1,17 @@
+.Aside {
+    display: flex;
+    flex-direction: row;
+    width: 456px;
+    justify-content:space-between;
+}
+
+.first,
+.second {
+    display: flex;
+    flex-direction: column;
+    width: 218px;
+}
+
+.car-mini {
+    height: 440px;
+}

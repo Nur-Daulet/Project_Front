@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+table {
+    border-radius: 10px;
+    background: silver;
+}
+
+tr{
+    height: 42px;
+    line-height: 42px;
+    padding: 10px;
+}
+
+.table_name {
+    background: #FAFAFA;
+    width: 156.5px;
+    padding-left: 15px;
+}
+
+.table_value {
+    background: #FFFFFF;
+    width: 267px;
+    padding-left: 15px;
+}
+
+.car-inf {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1480px;
+    align-items: center;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 900px;
+    margin-right: 10px;
+}

@@ -1,0 +1,23 @@
+.Main {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    width: 1200px;
+    margin: 10px;
+}
+
+.into-main {
+    display: flex;
+    flex-direction: column;
+    width: 1180px;
+    align-items: center;
+    margin: 10px;
+}
+
+.audi {
+    display: flex;
+    flex-direction: column; 
+    width: 332px;
+    height: 352px;
+    margin: 20px;
+}

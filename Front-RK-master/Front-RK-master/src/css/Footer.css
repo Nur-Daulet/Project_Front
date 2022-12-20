@@ -1,0 +1,46 @@
+.Footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100vw;
+    height: 225px;
+    background-color: #EEEEF0;
+    bottom: 0;
+}
+
+.footeR {
+    width: 1360px;
+    height: 225px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 80px;
+}
+
+h5 {
+    line-height: 20px;
+}
+
+h4 {
+    color: black;
+    line-height: 10px;
+}
+
+.black-h5 {
+    margin-top: 0;
+    color: black;
+    line-height: 0;
+}
+
+.footer-item {
+    font-weight: 100;
+    color: silver;
+    height: 200px;
+    width: 272px;
+}
+
+.socials {
+    height: 68px;
+}
